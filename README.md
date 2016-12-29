@@ -1,3 +1,2 @@
-# En este respositorio estan todos mis programas
-# importantes.
+#PROGRAMS.
 Rafa Cortés.
