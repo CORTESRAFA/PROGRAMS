@@ -1,0 +1,14 @@
+ID:
+5771b9b27625420dd490348e
+
+API Key
+658265df0a3c432bba8d6f5b0332949f2ce1d8b6
+
+Tokens
+newToken
+gqeGtoC8soQ2fyLj2iJTQEIsloKjRdLllg5Wtzzemhjyv13dKJmUrFRp1FNM
+
+CUENTA UBIDOTS:
+puxi
+Correo: dalacin12@hotmail.com
+Contraseña: amdtools
